@@ -1,1 +1,1 @@
-# vmf_usecases
+# VD Mobile Foundation
